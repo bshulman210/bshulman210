@@ -8,7 +8,7 @@ Hello World 👋 I'm Brendan Shulman!
 
 <h4>
 
-<a target="_blank" href="https://www.linkedin.com/in/brendan-shulman/">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/brendan-shulman/">
 📫 Connect with me on LinkedIn
 </a>
 
