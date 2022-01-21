@@ -8,13 +8,13 @@ Hello World 👋 I'm Brendan Shulman!
 
 <h4>
 
-<a href="https://www.linkedin.com/in/brendan-shulman/">
+<a target="_blank" href="https://www.linkedin.com/in/brendan-shulman/">
 📫 Connect with me on LinkedIn
 </a>
 
 </h4>
 
-#### 💼 Technical skills
+#### 💼 Technical skills:
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +28,6 @@ Hello World 👋 I'm Brendan Shulman!
 ![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=%231572B6)
 ![Git](https://img.shields.io/badge/Tools-Git-%23F05033.svg?style=plastic&logo=git&logoColor=%23F05033)
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=%238DD6F9)
-![NPM](https://img.shields.io/badge/Code-NPM-red.svg?style=plastic&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Tools-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=6DA55F)
 ![Figma](https://img.shields.io/badge/Tools-Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=%23F24E1E)
 ![Heroku](https://img.shields.io/badge/Tools-Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
