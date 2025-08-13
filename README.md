@@ -52,7 +52,7 @@ Full Stack Software Engineer with a passion for building scalable web apps, intu
 ---
 
 ### 📚 Currently Learning
-- N8N
+- n8n
 - Leadership skills
 - Architecture decision-making
 
