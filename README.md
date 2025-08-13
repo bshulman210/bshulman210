@@ -3,18 +3,23 @@ Hello World 👋 I'm Brendan Shulman!
 </h1>
 
 <h2 align="center">
-💻 🚀 Fullstack Software Engineer & Pilot
+💻 🚀 Full Stack Software Engineer & Pilot
 </h2>
 
-<h4>
-
+<h4 align="center">
 <a href="https://www.linkedin.com/in/brendan-shulman/" target="_blank" rel="noopener noreferrer">
 📫 Connect with me on LinkedIn
 </a>
-
 </h4>
 
-#### 💼 Technical skills:
+---
+
+### 🚀 About Me
+Full Stack Software Engineer with a passion for building scalable web apps, intuitive UIs, and API-driven systems. I love turning ideas into polished, production-ready products that make a real-world impact.
+
+---
+
+### 💼 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -34,3 +39,30 @@ Hello World 👋 I'm Brendan Shulman!
 ![NodeJS](https://img.shields.io/badge/Tools-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=6DA55F)
 ![Figma](https://img.shields.io/badge/Tools-Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=%23F24E1E)
 
+---
+
+### 🌟 Recent Builds
+- **Onboarding Dashboard** – Vue + Laravel app for managing training modules with real-time progress tracking for a large solar company.  
+  
+- **Freight Estimate Tool** – React + Google Maps API for route planning and cost estimation.  
+  
+- **SaaS Task Manager** – Kanban board, messaging center, and invoicing for freelancers and small business owners.  
+  
+
+---
+
+### 📚 Currently Learning
+- N8N
+- Leadership skills
+- Architecture decision-making
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bshulman210&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bshulman210&layout=compact)
+
+---
+
+### 📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/brendan-shulman/) • [Email Me](mailto:brendan.shulman@gmail.com)
